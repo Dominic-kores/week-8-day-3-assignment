@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+.env.local
+
+# Coverage reports
+coverage/
+
+# Build outputs
+dist/
+build/
+
+# System files
+.DS_Store
+
+# Log files
+*.log
